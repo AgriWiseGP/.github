@@ -2,6 +2,8 @@
 
 <p align="center" > <a href="https://www.youtube.com/watch?v=C6J9Zjz5MuI"><img width="150" src="https://i.postimg.cc/0yG7VQQD/DOC.png" alt="AgriWise" /></a> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=17A267&multiline=true&width=800&lines=Amplify+yield+with+AgriWise+technology.)](https://git.io/typing-svg)
+
 <h2><img width="25" src="https://i.postimg.cc/GhLBbQh8/partners.png"/> Team members </h2>
 
 <img src='https://img.shields.io/badge/Machine Learning-%20Noura Algohary & Eman Saad & Mostafa Ahmed-1f425f.svg'/>
