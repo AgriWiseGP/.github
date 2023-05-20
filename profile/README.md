@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=17A267&multiline=true&width=800&lines=Amplify+yield+with+AgriWise+technology.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://i.postimg.cc/6p0hhXBH/smartmockups-lhakigc3.png" width = 450px alt="agriwise"/>
-</p>
-
 <h2>What our platform can do</h2>
 
 <img align="right" src="https://i.postimg.cc/0yG7VQQD/DOC.png" width = 150px/>
